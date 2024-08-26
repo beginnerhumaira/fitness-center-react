@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+
+  /* === Varialbles For Storing Colors === */
+  --background-clr: #edf0f6;
+  --dark-bg-clr: #171717;
+  --primary-clr: #fa5a20;
+  --light-heading-clr: #f9f9f9;
+  --light-secondary-heading-clr: #ccc;
+  --light-text-clr: #828282;
+  --dark-heading-clr: #242d38;
+  --dark-text-clr: #7b7b7b;
+}
+
+body{
+	width: 100%;
+	min-height: 100vh;
+}
