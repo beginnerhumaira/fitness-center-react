@@ -1,5 +1,5 @@
 import React from 'react';
-import './Modal.css'; // Add custom styles for the modal if needed
+import './modal.css'; // Add custom styles for the modal if needed
 
 const MembershipStatusModal = ({ onClose }) => {
   return (
